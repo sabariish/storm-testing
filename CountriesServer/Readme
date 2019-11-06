@@ -1,0 +1,18 @@
+# Getting Started
+
+### Guides
+1) Run mvn install
+2) Run java -jar target\WebServer-0.0.1-SNAPSHOT.jar to have the Spring App up and running
+		- You can follow the command line options to navigate through available API's
+		- Or you can use one of the below direct API URL's to see the result:
+		localhost:9000/api/countryName/{countryName}
+		http://localhost:9000/api/countryCode/{countryCode}
+3) To run all integrations tests, run the TestNG.xml file as a suite.
+
+### Reference Documentation
+For further reference, please consider the following sections:
+
+* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
+* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.2.0.RELEASE/maven-plugin/)
+
+
