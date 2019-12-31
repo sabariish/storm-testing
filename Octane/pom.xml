@@ -20,14 +20,20 @@
     <dependency>
 	    <groupId>io.cucumber</groupId>
 	    <artifactId>cucumber-java</artifactId>
-	    <version>4.7.4</version>
+	    <version>4.2.0</version>
 	</dependency>
     
     <dependency>
         <groupId>io.cucumber</groupId>
         <artifactId>cucumber-junit</artifactId>
-        <version>4.7.4</version>
+        <version>4.2.0</version>
        
+    </dependency>
+    
+    <dependency>
+        <groupId>com.hpe.alm.octane</groupId>
+        <artifactId>octane-cucumber-jvm</artifactId>
+        <version>12.60.48</version>
     </dependency>
     
   </dependencies>
