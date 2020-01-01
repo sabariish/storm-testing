@@ -2,7 +2,7 @@
 @TID1002REV0.3.0
 Feature:
 
-  Scenario: Title of your scenario
+  Scenario: Test Commit Changes
     Given I want to write a step with precondition
     And some other precondition
     When I complete action
