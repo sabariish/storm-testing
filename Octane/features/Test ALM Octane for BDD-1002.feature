@@ -8,4 +8,4 @@ Feature:
     And some other action
     And yet another action
     Then I validate the outcomes
-    And check more outcomes
+    And check more outcomes change the step
