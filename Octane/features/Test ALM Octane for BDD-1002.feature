@@ -2,6 +2,7 @@
 @TID1002REV0.3.0
 Feature:
 
+
   Scenario: Test Commit Changes for US 2002
     Given I want to write a step with precondition
     And some other precondition
